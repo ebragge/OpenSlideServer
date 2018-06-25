@@ -1,0 +1,10 @@
+{
+    "location": "C:\\Users\\Public\\OpenSlide\\",
+    "macro": "C:\\Users\\Public\\Macro\\",
+    "dicom": "C:\\Users\\Public\\Dicom\\",
+    "cache": "C:\\Users\\Public\\Cache\\",
+    "prefixes": [
+        "http://localhost:8081/",
+        "http://127.0.0.1:8081/"
+    ]
+}
